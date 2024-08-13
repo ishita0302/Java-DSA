@@ -5,9 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c46961f-e5c3-44be-afd3-2dbabf37db9f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-DSA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-DSA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Closest number.java" beforeDir="false" afterPath="$PROJECT_DIR$/Closest number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-DSA/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-DSA/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-DSA/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-DSA/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-DSA/ArrayLists.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-DSA/BitManipulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-DSA/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-DSA/Java-DSA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-DSA/Link.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-DSA/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-DSA/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-DSA/ReverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-DSA/StringRecursion.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +52,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "openjdk-20",
-    "last_opened_file_path": "C:/Users/vanda/OneDrive/Documents/GitHub/Java-DSA"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/HP/Documents/GitHub/Java-DSA"
   }
 }]]></component>
   <component name="RunManager">
